@@ -28,4 +28,4 @@ if __name__ == '__main__':
     )
 
     print("\n✅ Training complete!")
-    print(f"Best model saved at: outputs/garbage_v1/weights/best.pt")
+    print("Best model saved at: outputs/garbage_v1/weights/best.pt")
